@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\bin\Debug\Kalakutskiy.exe.config
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\bin\Debug\Kalakutskiy.exe
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\bin\Debug\Kalakutskiy.pdb
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy.g.resources
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy.exe
+C:\Users\Администратор\source\repos\Kalakutskiy\Kalakutskiy\obj\Debug\Kalakutskiy.pdb
