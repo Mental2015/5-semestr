@@ -1,4 +1,7 @@
-https://docs.google.com/spreadsheets/d/1A6ThFNDX99hbl6-uc_zsSvMpWOFqu_dhT3ESogvXWKs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1A6ThFNDX99hbl6-uc_zsSvMpWOFqu_dhT3ESogvXWKs/edit?usp=sharing - численные
+https://docs.google.com/document/d/1ynSXB_1CeeMIQnRNSRs5_liQmqDDm5zQ_Ypp1rfcXx0/edit?usp=sharing - отчет
+https://replit.com/@Mental2015/Chisliennyie - реплит
+
 
 Работа с матрицами (для решения уравнения);
 Регрессия(по заданным данным сделать предсказание) - интерполяция(задать математически уравнение для данных);
